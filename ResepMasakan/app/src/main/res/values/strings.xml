@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+
+    <string-array name="judul">
+        <item>Nasi Goreng</item>
+        <item>Ikan Gurame Bakar</item>
+        <item>Sate Sapi Manis</item>
+        <item>Gulai Kambing</item>
+        <item>Semur Ayam</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Sebuah hidangan nasi yang telah digoreng dalam sebuah wajan atau penggorengan dan biasanya dicampur dengan bahan-bahan lainnya seperti telur, sayur-sayuran, makanan laut, atau daging.</item>
+        <item>hidangan ikan yang dibakar atau dipanggang di atas api atau bara api. Hidangan ikan yang dibakar, muncul secara universal di berbagai belahan dunia.</item>
+        <item>Makanan yang terbuat dari potongan daging kecil-kecil yang ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu kemudian dipanggang menggunakan bara arang kayu. Sate disajikan dengan berbagai macam bumbu yang bergantung pada variasi resep sate.</item>
+        <item>Masakan berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah yang bercitarasa gurih</item>
+        <item>Hidangan daging rebus dari Indonesia yang diolah dalam kuah berwarna coklat pekat yang terbuat dari kecap manis, bawang merah, bawang bombay, pala dan cengkeh.</item>
+    </string-array>
+
+</resources>
